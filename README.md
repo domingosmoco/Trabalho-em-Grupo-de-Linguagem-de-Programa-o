@@ -10,3 +10,5 @@ Nº | Nome Completo | Cadeira | Notas
 1 | Domingos B. Ramiro Moco | Linguagem de Programação |
 2 | David Manuel Sebastão | Linguagem de Programação |
 3 | Hortêncio Rosselto Ntando Manuel | Linguagem de Programação |
+4 | Mansia Suzana Fernando Carlos | Linguagem de Programação |
+
